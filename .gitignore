@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+faiss_index/
+logs/
+data/scraped/
+.streamlit/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
